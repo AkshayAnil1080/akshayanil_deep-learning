@@ -23,6 +23,8 @@
                             <li> ACTIVATIONS FINCTION
                               <li> WHY DOES NN NEED A NON A NON LINEAR ACTIVATION FUNCTION?
                                 <li> DERIVATIVES OF ACTIVATION FUANCTION
-                                  
+  </ol>
+  </h2>
+                                
 
 
