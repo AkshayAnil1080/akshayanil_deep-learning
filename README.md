@@ -11,7 +11,7 @@
     <li>APPLICATION OF ML TO STRUCTURED AND UNSTRUCTURED DATA
       <li>WHY IS DEEP LEARNING TAKNG OFF ? 
         <li>IDEA OF NN ARCHITECTURE
-  <li>BINARY CLASSIFICATION <oL> <li> how computer stores image ? </ol>
+  <li>BINARY CLASSIFICATION <ul> <li> how computer stores image ? </ul>
             <li> LOSS AND COST FUNTION
               <li>GRADIENT DESCENT
                 <li> DERIBATIVES WITH COMPUTING GRAPH
