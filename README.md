@@ -5,5 +5,7 @@
 # COURSE 2: Iproving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 # COURSE 2: Structuring Machine Learning Projects
 
-<h2> what is neural network </h2>
+<h2> <li>
+  <ol>what is neural network 
+  <ol>SUPERVISED LEARNING WITH ML
 
